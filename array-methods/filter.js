@@ -1,9 +1,8 @@
-//Array.filter retourne les fruits ayant plus ou égale à 6 lettres
 //const fruits = ['Pomme', 'Banane', 'Poire', 'Pamplemousse'];
 //const resultat = fruits.filter(fruit=> fruit.length >= 6);
 //console.log(resultat);
 
-//Exemple de focntion qui représente le fonctionnement de array.filter
+//Exemple de fonction représentant le fonctionnement de array.filter
 //Retourne les fruits ayant plus ou égale à 6 lettres
 function Fruits(arrFruits, numOfLetters)
 {        

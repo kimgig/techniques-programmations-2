@@ -1,4 +1,3 @@
-// array.map retourne chaque nombre + 2
 //const number = [1,2,3,4,5];
 //const sum = number.map(nbr => nbr + 2);
 //console.log(sum);

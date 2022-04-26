@@ -1,4 +1,3 @@
-// Retourne vrai si au moins un élément répond au critère
 //const arrayNbr = [1, 2, 3, 4, 5, 6];
 //const pair = (element) => element % 2 === 0
 //console.log(arrayNbr.some(pair));
