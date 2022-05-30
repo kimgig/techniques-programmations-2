@@ -10,8 +10,8 @@ const EthereumClock = () => {
         </div>
         <div className='textclock'>
          <img src={clock} alt=""/>3 days left
-        </div>
-    </div>
+        </div>        
+    </div>    
   )
 }
 
